@@ -1,5 +1,5 @@
-# Cloud-storage-with-SearchableEncrypt-
-基于可搜索加密的云存储方案
+# Cloud-storage-with-SearchableEncrypt
+# 基于可搜索加密的云存储方案
 
 对应六种应用场景进行部署
 使用方法：
